@@ -66,7 +66,7 @@ A Windows desktop application designed to automate school bell scheduling.
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kavindu-Rasanja&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kavindu-Rasanja&show_icons=https://avatars.githubusercontent.com/u/360580751?v=4&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavindu-Rasanja&layout=compact&theme=tokyonight&hide_border=true)
 
