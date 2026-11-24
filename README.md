@@ -184,7 +184,7 @@ Exploring new technologies and developing practical software products.
 
 <div align="center">
 
-<a href="https://kvrasanjaofficial.netlify.app">
+<a href="https://kavindurasanja.vercel.app/">
 <img src="https://img.shields.io/badge/PORTFOLIO-263E49?style=for-the-badge&logo=googlechrome&logoColor=58C7F5"/>
 </a>
 
